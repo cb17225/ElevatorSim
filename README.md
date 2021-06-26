@@ -1,4 +1,4 @@
 # ElevatorSim
 Simulation of an elevator.
 
-Credit: Scott Murray
+Skeleton credit: Scott Murray
